@@ -11,3 +11,4 @@ checkpoint*.json
 *.csv
 *.tsv
 *.log
+.weights/
