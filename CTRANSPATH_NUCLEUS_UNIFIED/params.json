@@ -1,7 +1,6 @@
 {
-  "tile_sz": 224,
   "n_tiles": 150,
   "blur_th": 0.2110816848455586,
-  "tiss_th": 0.25,
-  "seed": 42
+  "tiss_th": 0.1,
+  "calibration_slides": 11
 }

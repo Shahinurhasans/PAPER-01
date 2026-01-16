@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-15T07:43:55.811249",
+  "timestamp": "2026-01-16T12:40:17.202468",
   "seed": 42,
   "elbow": {
     "optimal": 150
@@ -8,7 +8,7 @@
     "optimal": 0.2110816848455586
   },
   "tissue_threshold": {
-    "optimal": 0.25
+    "optimal": 0.1
   },
   "bootstrap": {
     "mean": 0.1453980172204368,

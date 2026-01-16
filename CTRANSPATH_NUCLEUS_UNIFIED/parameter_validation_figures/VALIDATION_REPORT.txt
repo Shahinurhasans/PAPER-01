@@ -1,0 +1,33 @@
+
+OUTPUT DIRECTORY: D:\paper\CTRANSPATH_NUCLEUS_UNIFIED/parameter_validation_figures/
+
+GENERATED FIGURES (ALL USING REAL DATA):
+  01. 01_elbow.png - Elbow method for tile count
+  02. 02_blur.png - Blur score distribution
+  03. 03_youden.png - Youden's J optimization
+  04. 04_tissue.png - Tissue coverage distribution
+  05. 05_bootstrap.png - Bootstrap stability
+  06. 06_stain.png - Stain statistics
+  07. 07_retention.png - Tile retention QC
+  08. 08_stability.png - Feature stability
+  09. 09_qc_summary.png - QC summary (4-panel)
+  10. 10_tissue_methods.png - Tissue multi-method
+  11. 11_blur_youden.png - Blur + Youden combined
+  12. 12_stain_chart.png - Stain bar chart
+  13. 13_features.png - Feature distributions
+  14. 14_comprehensive.png - Comprehensive QC (5-panel)
+
+KEY STATISTICS:
+  • Total Slides: 111
+  • Success Rate: 96.4%
+  • Mean Tiles/Slide: 149 ± 6
+  • Total Features: 3872
+
+DATA-DRIVEN PARAMETERS:
+  1. Tile Count: 150 (Elbow Method)
+  2. Blur Threshold: 0.2111 (Youden's J)
+  3. Tissue Threshold: 0.100 (Multi-Method)
+  4. Bootstrap CI: 0.1454 ± 0.0112
+  5. Stain Targets: RGB=[0.7777041792869568, 0.6017348766326904, 0.8815009593963623]
+
+ALL FIGURES USE 100% REAL DATA - NO SYNTHETIC DATA!
