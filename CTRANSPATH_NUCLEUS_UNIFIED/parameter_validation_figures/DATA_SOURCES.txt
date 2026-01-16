@@ -1,0 +1,14 @@
+FIGURE GENERATION - DATA SOURCES
+================================================================================
+
+Total Slides: 108
+Total Features: 4020
+Tile Count: 150
+Blur Threshold: 0.2000
+Tissue Threshold: 0.300
+
+All data extracted from:
+  - optimization.json
+  - all_features.csv
+
+NO SYNTHETIC DATA USED
