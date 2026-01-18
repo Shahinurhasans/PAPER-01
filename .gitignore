@@ -12,3 +12,9 @@ checkpoint*.json
 *.tsv
 *.log
 .weights/
+./zip/
+.DS_Store
+.zipdata/
+.pth
+# Ignore MedicalNet weights
+weights/MedicalNet_pytorch_files2/
