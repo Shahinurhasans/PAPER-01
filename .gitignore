@@ -18,3 +18,5 @@ checkpoint*.json
 .pth
 # Ignore MedicalNet weights
 weights/MedicalNet_pytorch_files2/
+.png
+.jpg
