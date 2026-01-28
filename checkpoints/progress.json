@@ -1,0 +1,194 @@
+{
+  "A_Naive_resnet50": {
+    "YG_0CBM148C1MFN_wsi": {
+      "done": true,
+      "time": "2026-01-28T03:38:59.812484",
+      "file": "./checkpoints/embeddings/A_Naive_resnet50_YG_0CBM148C1MFN_wsi.pkl"
+    },
+    "YG_LDY21C4TSC7L_wsi": {
+      "done": true,
+      "time": "2026-01-28T03:46:33.942031",
+      "file": "./checkpoints/embeddings/A_Naive_resnet50_YG_LDY21C4TSC7L_wsi.pkl"
+    }
+  },
+  "A_Naive_resnet101": {
+    "YG_0CBM148C1MFN_wsi": {
+      "done": true,
+      "time": "2026-01-28T03:54:47.358816",
+      "file": "./checkpoints/embeddings/A_Naive_resnet101_YG_0CBM148C1MFN_wsi.pkl"
+    },
+    "YG_LDY21C4TSC7L_wsi": {
+      "done": true,
+      "time": "2026-01-28T04:02:48.773687",
+      "file": "./checkpoints/embeddings/A_Naive_resnet101_YG_LDY21C4TSC7L_wsi.pkl"
+    }
+  },
+  "A_Naive_vgg16": {
+    "YG_0CBM148C1MFN_wsi": {
+      "done": true,
+      "time": "2026-01-28T04:11:32.556129",
+      "file": "./checkpoints/embeddings/A_Naive_vgg16_YG_0CBM148C1MFN_wsi.pkl"
+    },
+    "YG_LDY21C4TSC7L_wsi": {
+      "done": true,
+      "time": "2026-01-28T04:22:16.807725",
+      "file": "./checkpoints/embeddings/A_Naive_vgg16_YG_LDY21C4TSC7L_wsi.pkl"
+    }
+  },
+  "B_AttnMIL_resnet50": {
+    "YG_0CBM148C1MFN_wsi": {
+      "done": true,
+      "time": "2026-01-28T04:28:35.988020",
+      "file": "./checkpoints/embeddings/B_AttnMIL_resnet50_YG_0CBM148C1MFN_wsi.pkl"
+    },
+    "YG_LDY21C4TSC7L_wsi": {
+      "done": true,
+      "time": "2026-01-28T04:33:17.151744",
+      "file": "./checkpoints/embeddings/B_AttnMIL_resnet50_YG_LDY21C4TSC7L_wsi.pkl"
+    }
+  },
+  "B_AttnMIL_resnet101": {
+    "YG_0CBM148C1MFN_wsi": {
+      "done": true,
+      "time": "2026-01-28T04:38:01.197147",
+      "file": "./checkpoints/embeddings/B_AttnMIL_resnet101_YG_0CBM148C1MFN_wsi.pkl"
+    },
+    "YG_LDY21C4TSC7L_wsi": {
+      "done": true,
+      "time": "2026-01-28T04:42:43.774496",
+      "file": "./checkpoints/embeddings/B_AttnMIL_resnet101_YG_LDY21C4TSC7L_wsi.pkl"
+    }
+  },
+  "B_AttnMIL_vgg16": {
+    "YG_0CBM148C1MFN_wsi": {
+      "done": true,
+      "time": "2026-01-28T04:50:03.008716",
+      "file": "./checkpoints/embeddings/B_AttnMIL_vgg16_YG_0CBM148C1MFN_wsi.pkl"
+    },
+    "YG_LDY21C4TSC7L_wsi": {
+      "done": true,
+      "time": "2026-01-28T04:56:40.837059",
+      "file": "./checkpoints/embeddings/B_AttnMIL_vgg16_YG_LDY21C4TSC7L_wsi.pkl"
+    }
+  },
+  "C_GatedMIL_resnet50": {
+    "YG_0CBM148C1MFN_wsi": {
+      "done": true,
+      "time": "2026-01-28T05:00:52.032197",
+      "file": "./checkpoints/embeddings/C_GatedMIL_resnet50_YG_0CBM148C1MFN_wsi.pkl"
+    },
+    "YG_LDY21C4TSC7L_wsi": {
+      "done": true,
+      "time": "2026-01-28T05:04:55.890768",
+      "file": "./checkpoints/embeddings/C_GatedMIL_resnet50_YG_LDY21C4TSC7L_wsi.pkl"
+    }
+  },
+  "C_GatedMIL_resnet101": {
+    "YG_0CBM148C1MFN_wsi": {
+      "done": true,
+      "time": "2026-01-28T05:09:21.590715",
+      "file": "./checkpoints/embeddings/C_GatedMIL_resnet101_YG_0CBM148C1MFN_wsi.pkl"
+    },
+    "YG_LDY21C4TSC7L_wsi": {
+      "done": true,
+      "time": "2026-01-28T05:14:04.870850",
+      "file": "./checkpoints/embeddings/C_GatedMIL_resnet101_YG_LDY21C4TSC7L_wsi.pkl"
+    }
+  },
+  "C_GatedMIL_vgg16": {
+    "YG_0CBM148C1MFN_wsi": {
+      "done": true,
+      "time": "2026-01-28T05:19:42.348543",
+      "file": "./checkpoints/embeddings/C_GatedMIL_vgg16_YG_0CBM148C1MFN_wsi.pkl"
+    },
+    "YG_LDY21C4TSC7L_wsi": {
+      "done": true,
+      "time": "2026-01-28T05:25:50.104262",
+      "file": "./checkpoints/embeddings/C_GatedMIL_vgg16_YG_LDY21C4TSC7L_wsi.pkl"
+    }
+  },
+  "D_TransMIL_resnet50": {
+    "YG_0CBM148C1MFN_wsi": {
+      "done": true,
+      "time": "2026-01-28T05:29:55.025200",
+      "file": "./checkpoints/embeddings/D_TransMIL_resnet50_YG_0CBM148C1MFN_wsi.pkl"
+    },
+    "YG_LDY21C4TSC7L_wsi": {
+      "done": true,
+      "time": "2026-01-28T05:34:08.917434",
+      "file": "./checkpoints/embeddings/D_TransMIL_resnet50_YG_LDY21C4TSC7L_wsi.pkl"
+    }
+  },
+  "D_TransMIL_resnet101": {
+    "YG_0CBM148C1MFN_wsi": {
+      "done": true,
+      "time": "2026-01-28T05:38:36.277419",
+      "file": "./checkpoints/embeddings/D_TransMIL_resnet101_YG_0CBM148C1MFN_wsi.pkl"
+    },
+    "YG_LDY21C4TSC7L_wsi": {
+      "done": true,
+      "time": "2026-01-28T05:42:39.810110",
+      "file": "./checkpoints/embeddings/D_TransMIL_resnet101_YG_LDY21C4TSC7L_wsi.pkl"
+    }
+  },
+  "E_GraphMIL_resnet50": {
+    "YG_0CBM148C1MFN_wsi": {
+      "done": true,
+      "time": "2026-01-28T05:46:53.981310",
+      "file": "./checkpoints/embeddings/E_GraphMIL_resnet50_YG_0CBM148C1MFN_wsi.pkl"
+    },
+    "YG_LDY21C4TSC7L_wsi": {
+      "done": true,
+      "time": "2026-01-28T05:51:05.457396",
+      "file": "./checkpoints/embeddings/E_GraphMIL_resnet50_YG_LDY21C4TSC7L_wsi.pkl"
+    }
+  },
+  "F_Ensemble_resnet50": {
+    "YG_0CBM148C1MFN_wsi": {
+      "done": true,
+      "time": "2026-01-28T05:55:13.316327",
+      "file": "./checkpoints/embeddings/F_Ensemble_resnet50_YG_0CBM148C1MFN_wsi.pkl"
+    },
+    "YG_LDY21C4TSC7L_wsi": {
+      "done": true,
+      "time": "2026-01-28T05:59:30.250640",
+      "file": "./checkpoints/embeddings/F_Ensemble_resnet50_YG_LDY21C4TSC7L_wsi.pkl"
+    }
+  },
+  "G_OURS_ATTN": {
+    "YG_0CBM148C1MFN_wsi": {
+      "done": true,
+      "time": "2026-01-28T06:03:36.586851",
+      "file": "./checkpoints/embeddings/G_OURS_ATTN_YG_0CBM148C1MFN_wsi.pkl"
+    },
+    "YG_LDY21C4TSC7L_wsi": {
+      "done": true,
+      "time": "2026-01-28T06:07:48.936570",
+      "file": "./checkpoints/embeddings/G_OURS_ATTN_YG_LDY21C4TSC7L_wsi.pkl"
+    }
+  },
+  "G_OURS_GATED": {
+    "YG_0CBM148C1MFN_wsi": {
+      "done": true,
+      "time": "2026-01-28T06:11:55.918443",
+      "file": "./checkpoints/embeddings/G_OURS_GATED_YG_0CBM148C1MFN_wsi.pkl"
+    },
+    "YG_LDY21C4TSC7L_wsi": {
+      "done": true,
+      "time": "2026-01-28T06:15:59.436011",
+      "file": "./checkpoints/embeddings/G_OURS_GATED_YG_LDY21C4TSC7L_wsi.pkl"
+    }
+  },
+  "G_OURS_TRANS": {
+    "YG_0CBM148C1MFN_wsi": {
+      "done": true,
+      "time": "2026-01-28T06:20:41.202211",
+      "file": "./checkpoints/embeddings/G_OURS_TRANS_YG_0CBM148C1MFN_wsi.pkl"
+    },
+    "YG_LDY21C4TSC7L_wsi": {
+      "done": true,
+      "time": "2026-01-28T06:25:09.785785",
+      "file": "./checkpoints/embeddings/G_OURS_TRANS_YG_LDY21C4TSC7L_wsi.pkl"
+    }
+  }
+}
